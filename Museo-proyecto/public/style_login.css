@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logo{
+    width: 200px;
+    margin-left: 20px;
+    justify-content: flex-start;
+}
+.mb-3{
+    width: 400px;
+
+
+}
+
+.btn-success{
+    width: 100px;
+    color:  #008573;
+
+}
+
+#form{
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+}
